@@ -1,4 +1,7 @@
 # personal-finance-tracker
-This assignmentt involves analyzing personal finance data using Excel. The dataset was cleaned by removing duplicate months, handling missing values with IF and AVERAGE functions, and correcting inconsistent data.
-
-Data exploration was performed using sorting, filtering, and pivot tables to summarize income, expenses, and savings. An interactive dashboard with slicers was created to track financial trends and support quick decision-making.
+An Excel-based project focused on cleaning, analyzing, and visualizing personal finance data.
+Handled duplicates, missing values, and inconsistent data using Excel functions.
+Used sorting, filtering, and pivot tables to summarize income, expenses, and savings.
+Built an interactive dashboard with slicers for quick insights.
+Demonstrates strong data analysis, reporting, and problem-solving skills.
+*italicized text*
